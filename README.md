@@ -2,7 +2,7 @@
 a public repo to predict calendar dates using AI
 
 
-# Gregorian Calendar datset
+# Gregorian Calendar dataset
 
 ## dataset
 Dataset is available in Csv format under ./data folder
